@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
     <div>
-      <nav className='h-[88px] bg-slate-400 '>
+      <nav className='h-[88px] md:w-full bg-slate-400 '>
         <div className='text-black flex justify-end p-8 '>
           <ul className='flex space-x-20 font-bold '>
             <li><a href="/">Home</a></li>
